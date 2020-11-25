@@ -1,2 +1,2 @@
 # Concrete-Compressive-Strength-Prediction
-Predicting the compressive strength of concrete using ML
+This repository contains the files of the project that I developed during my internship tenure at SmartBridge
