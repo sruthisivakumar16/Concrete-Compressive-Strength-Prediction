@@ -5,7 +5,7 @@ This repository contains the files of the project that I developed during my int
 - The dataset was taken from  <a href="http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength">UCI Machine Learning Repository</a> 
 - It contains 1030 instances and 9 attributes with surprisingly no missing values. 
 - Among the 8 input variables, 7 represent the amount of raw materials and 1 represents age. 
-- The target variable is Concrete Compressive Strength (obviously) messured in Mega Pascal(MPa).
+- The target variable is Concrete Compressive Strength (obviously) which is messured in Mega Pascal(MPa).
 
 
 
