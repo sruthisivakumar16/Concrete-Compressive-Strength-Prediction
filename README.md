@@ -13,9 +13,9 @@ This repository contains the files of the project that I developed during my int
 
 ### Screenshots
 
-<img src = "/Screenshots/Screenshot1.png">
+<img src = "/Screenshots/Screenshot1.png" width = "700">
 
-<img src = "/Screenshots/Screenshot2.png">
+<img src = "/Screenshots/Screenshot2.png" width = "700">
 
 
 
