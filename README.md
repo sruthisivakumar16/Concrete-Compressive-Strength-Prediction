@@ -7,6 +7,10 @@ This repository contains the files of the project that I developed during my int
 - Among the 8 input variables, 7 represent the raw materials and 1 represents age. 
 - The target variable is Concrete Compressive Strength (obviously) which is messured in Mega Pascal(MPa).
 
+### Tools and Technologies used
+- Google colab
+- Flask
+
 ### Screenshots
 
 <img src = "/Screenshots/Screenshot1.png">
