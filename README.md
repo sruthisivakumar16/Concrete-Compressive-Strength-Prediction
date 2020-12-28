@@ -1,5 +1,6 @@
 # Estimating the compressive strength of concrete
 This repository contains the files of the project that I developed during my internship.
+You can checkout my <a href="https://sruthi-sivakumar.medium.com/estimating-the-compressive-strength-of-concrete-using-machine-learning-1637c9ca2c73" >medium article</a> for more details
 
 ### Dataset 
 - The dataset was taken from  <a href="http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength">UCI Machine Learning Repository</a> 
